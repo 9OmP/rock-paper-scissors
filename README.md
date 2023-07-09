@@ -17,7 +17,7 @@ Rock-Paper-Scissors is a popular hand game played around the world. The game inv
 
 1. Clone the repository to your local machine:
 
-      git clone https://github.com/your-username/rock-paper-scissors.git
+      git clone https://github.com/9OmP/rock-paper-scissors.git
 
 2. Navigate to the project directory:
 
